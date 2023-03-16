@@ -9,3 +9,19 @@ Sprite---3 euro
 Coca cola---3 euro
 Vino (da chiedere al cameriere)---da 15 a 300 euro
 Super alcolici (da chiedere al cameriere)
+
+SECONDI PIATTI
+
+Secondi di carne
+
+Bistecca ai ferri € 15
+Bistecca alla fiorentina "Yoza" (l'etto) € 6
+Filetto alla griglia € 16
+Filetto al pepe verde € 16
+Filetto all'aceto balsamico € 16
+Scaloppine ai funghi porcini € 10
+Scaloppine al limone € 10
+Abbacchio alla scottadito € 18
+Tagliata € 18
+Tagliata, rucola e parmigiano € 20
+Tagliata di pollo con verdure grigliate € 13
